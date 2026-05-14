@@ -1,13 +1,13 @@
 # To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:coming_soon-%23f2806bff.svg)](#) [![Code](https://img.shields.io/badge/Code-GitHub-%238a91faff.svg)](https://github.com/ChengshuaiZhao/MMGuard)
+[![Paper](https://img.shields.io/badge/Paper-arXiv:coming_soon-%23f2806bff.svg)](#) [![Code](https://img.shields.io/badge/Code-GitHub-%238a91faff.svg)](https://github.com/ChengshuaiZhao0/MMGuard.git)
 
 This repository contains the official implementation of **MMGuard**, the framework introduced in the paper **"To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model."**
 
 ## News
 
 - **[05/13/2026]** Our paper is being uploaded to arXiv. The arXiv link will be added once it is public.
-- **[05/13/2026]** GitHub repository created. Code release is coming soon.
+- **[05/12/2026]** GitHub repository created. Code release is coming soon.
 
 ## Introduction
 
